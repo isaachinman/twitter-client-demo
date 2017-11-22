@@ -21,7 +21,6 @@ const initialState = {
 }
 
 export default function twitter(state = initialState, action) {
-  console.log(action)
   switch (action.type) {
     case FETCH_AUTHORISATION_URL_SUCCESS:
       return Object.assign({}, state, {
