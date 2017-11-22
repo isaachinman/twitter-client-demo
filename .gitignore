@@ -1,0 +1,16 @@
+# OSX
+.DS_Store
+
+# Deps
+node_modules
+
+# Debug logs
+stats.json
+npm-debug.log
+yarn-error.log
+
+# Dev environment
+.vscode
+
+# Build
+client/dist
