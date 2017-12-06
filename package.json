@@ -21,6 +21,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "history": "^4.7.2",
+    "node-twitter-api-promisified": "^2.0.0",
     "oauth": "^0.9.15",
     "react": "^16.1.1",
     "react-css-modules": "^4.7.1",
